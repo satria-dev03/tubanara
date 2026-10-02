@@ -1,0 +1,1 @@
+<img src="{{ asset('logo-tubankab.png') }}" alt="Logo Tuban Kab" class="h-12 w-auto mx-auto" />
